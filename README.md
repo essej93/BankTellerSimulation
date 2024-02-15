@@ -1,4 +1,4 @@
-### Bank Teller Simulation
+# Bank Teller Simulation
 ## Description
 This was developed to better understand data types, queuing and big-O. Strictly we had to use primitive data types as well as c-string/char arrays; which means no third party libraries of data structures and algorithms that we needed.
 
